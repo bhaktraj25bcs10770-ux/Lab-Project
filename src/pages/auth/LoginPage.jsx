@@ -49,7 +49,7 @@ export default function LoginPage() {
   };
 
   const fillAdmin = () => {
-    setForm({ email: 'abhale.parth07@gmail.com', password: 'Parth@1234' });
+    setForm({ email: 'bhaktraj.25bcs10770@gmail.com', password: 'Parth@1234' });
     setErrors({});
   };
 
@@ -70,7 +70,7 @@ export default function LoginPage() {
           </Stack>
         }
       >
-        Quick test accounts: <strong>Customer</strong> (demo@example.com) or <strong>Admin</strong> (abhale.parth07@gmail.com)
+        Quick test accounts: <strong>Customer</strong> (demo@example.com) or <strong>Admin</strong> (bhaktraj.25bcs10770@gmail.com)
       </Alert>
 
       {formError && <Alert severity="error" sx={{ mb: 2 }}>{formError}</Alert>}

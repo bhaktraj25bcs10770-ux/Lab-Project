@@ -73,7 +73,7 @@ async function seed() {
     console.log(`  - Categories: ${CATEGORIES.length}`);
     console.log(`  - Products:   ${PRODUCTS.length}`);
     console.log(`  - Users:      ${USERS.length}`);
-    console.log('    1. Admin:   abhale.parth07@gmail.com / Parth@1234');
+    console.log('    1. Admin:   bhaktraj.25bcs10770@gmail.com / Parth@1234');
     console.log('    2. Demo:    demo@example.com / password123');
     console.log('    3. User 3:  priya.sharma@example.com / password123');
     console.log('    4. User 4:  rohan.mehta@example.com / password123');

@@ -8,13 +8,13 @@ const ACCOUNTS_KEY = 'shopnest.accounts';
 const PRE_SEEDED_USERS = [
   {
     id: '660f1f77bcf86cd799430001',
-    firstName: 'Parth',
-    lastName: 'Abhale',
-    email: 'abhale.parth07@gmail.com',
+    firstName: 'Bhaktraj',
+    lastName: 'Patil',
+    email: 'bhaktraj.25bcs10770@gmail.com',
     password: 'Parth@1234',
     phone: '9876543210',
     role: 'admin',
-    avatar: 'https://picsum.photos/seed/shopnest-parth/200/200',
+    avatar: 'https://picsum.photos/seed/shopnest-bhaktraj/200/200',
     emailVerified: true,
   },
   {

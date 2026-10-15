@@ -137,15 +137,15 @@ const PRODUCTS = rawProducts.map((p, index) => {
 const USERS = [
   {
     _id: '660f1f77bcf86cd799430001',
-    firstName: 'Parth',
-    lastName: 'Abhale',
-    email: 'abhale.parth07@gmail.com',
+    firstName: 'Bhaktraj',
+    lastName: 'Patil',
+    email: 'bhaktraj.25bcs10770@gmail.com',
     passwordPlain: 'Parth@1234',
     password: bcrypt.hashSync('Parth@1234', 10),
     phoneNumber: 9876543210,
     role: 'admin',
     emailVerified: true,
-    avatar: 'https://picsum.photos/seed/shopnest-parth/200/200',
+    avatar: 'https://picsum.photos/seed/shopnest-bhaktraj/200/200',
     dob: '1998-05-12',
     createdAt: new Date('2023-01-15T08:00:00.000Z'),
   },
@@ -234,9 +234,9 @@ const ADDRESSES = [
   },
   {
     _id: '660f1f77bcf86cd799431003',
-    user: USERS[0]._id, // Admin Parth
+    user: USERS[0]._id, // Admin Bhaktraj
     label: 'HQ Office',
-    fullName: 'Parth Abhale',
+    fullName: 'Bhaktraj Patil',
     phone: '9876543210',
     line1: 'ShopNest Tower, 8th Floor',
     line2: 'Koramangala 4th Block',

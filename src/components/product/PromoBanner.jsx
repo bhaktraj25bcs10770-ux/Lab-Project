@@ -95,7 +95,7 @@ export default function PromoBanner({
               }}
             >
               {ctaLabel}
-              {/* Parth */}
+              {/* Bhaktraj */}
             </Button>
           </Stack>
         )}

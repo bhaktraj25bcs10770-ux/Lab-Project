@@ -31,7 +31,7 @@ All 4 accounts are pre-configured. On the login page (`/login`), click the **Adm
 
 | Role | Name | Email | Password | Phone | Permissions |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Admin** | Parth Abhale | `abhale.parth07@gmail.com` | `Parth@1234` | `9876543210` | Full store access, Admin Dashboard (`/admin`), inventory management, customer insights |
+| **Admin** | Bhaktraj Patil | `bhaktraj.25bcs10770@gmail.com` | `Parth@1234` | `9876543210` | Full store access, Admin Dashboard (`/admin`), inventory management, customer insights |
 | **Customer** | Aarav Sharma | `demo@example.com` | `password123` | `9845012345` | Shopping, cart, checkout, saved addresses, order tracking, reviews |
 | **Customer** | Priya Sharma | `priya.sharma@example.com` | `password123` | `9845012346` | Full customer checkout & account management |
 | **Customer** | Rohan Mehta | `rohan.mehta@example.com` | `password123` | `9845012347` | Full customer checkout & account management |

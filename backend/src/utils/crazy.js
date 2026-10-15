@@ -12,7 +12,7 @@ const path = require('path');
 
 // ---- Config — edit these ----
 const BASE_URL = 'http://localhost:8000/api';
-const ADMIN_EMAIL = 'abhale.parth07@gmail.com';
+const ADMIN_EMAIL = 'bhaktraj.25bcs10770@gmail.com';
 const ADMIN_PASSWORD = 'Parth@1234';
 // -------------------------------
 
